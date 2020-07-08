@@ -6,7 +6,7 @@ import RecentPosts from './RecentPosts';
 
 import blogData from '../../data/blog.json';
 import Layout from '../../components/Layout';
-import 'bootstrap/dist/css/bootstrap.css';
+
 
 
 
